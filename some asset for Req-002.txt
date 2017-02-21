@@ -1,4 +1,4 @@
 // Starting to work on Req-002
 public class MyReq002Class {
-
+ System.debug();
 }
