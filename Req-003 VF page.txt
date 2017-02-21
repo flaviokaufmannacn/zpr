@@ -1,4 +1,5 @@
 <apex:page>
     <h1>Congratulations</h1>
-    This is your new Apex Page: Hello STS
+    This is your new Apex Page: <b>Hello STS</b>
+	Hello Alexander
 </apex:page>
